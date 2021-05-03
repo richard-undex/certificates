@@ -7,8 +7,10 @@
 [![img](https://i.imgur.com/MD9z56S.png)](https://courses.edx.org/certificates/8f7c3e9dc42e418ca14d24b6fa83efa8)
 ## Probability and Statistics
 [![img](https://i.imgur.com/V7jojpV.png)](https://courses.edx.org/certificates/e4590f2bf0b0440daa742ed26f9a3e6d)
-## Probability with R
+## Probability and Statistics with R
 [![img](https://i.imgur.com/N4pjMkL.png)](https://courses.edx.org/certificates/0e1e9de1b26d45d3a0d366304deb1ee8)
+## Inference and Modeling with R
+[![img](https://i.imgur.com/iQHiDo1.png)](https://courses.edx.org/certificates/c9d62d3f8fb140e6a51199d6ad4a88f5)
 ## Unix, RStudio, Git
 [![img](https://i.imgur.com/VKlPqup.png)](https://courses.edx.org/certificates/d17cae922ade4cf5bd553fe563a721aa)
 ## Machine learning
