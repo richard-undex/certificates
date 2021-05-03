@@ -9,5 +9,7 @@
 [![img](https://i.imgur.com/V7jojpV.png)](https://courses.edx.org/certificates/e4590f2bf0b0440daa742ed26f9a3e6d)
 ## Probability with R
 [![img](https://i.imgur.com/N4pjMkL.png)](https://courses.edx.org/certificates/0e1e9de1b26d45d3a0d366304deb1ee8)
+## Unix, RStudio, Git
+[![img](https://i.imgur.com/VKlPqup.png)](https://courses.edx.org/certificates/d17cae922ade4cf5bd553fe563a721aa)
 ## Machine learning
 [![img](https://i.imgur.com/Fx2sBeR.png)](https://www.coursera.org/account/accomplishments/certificate/N4FBTPPPV2W9)
