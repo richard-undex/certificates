@@ -13,5 +13,7 @@
 [![img](https://i.imgur.com/iQHiDo1.png)](https://courses.edx.org/certificates/c9d62d3f8fb140e6a51199d6ad4a88f5)
 ## Unix, RStudio, Git
 [![img](https://i.imgur.com/VKlPqup.png)](https://courses.edx.org/certificates/d17cae922ade4cf5bd553fe563a721aa)
+## Wrangling with R
+[![img](https://i.imgur.com/viSuENY.png)](https://courses.edx.org/certificates/315bf9b15eb84980b72081ace4c9e4ed)
 ## Machine learning
 [![img](https://i.imgur.com/Fx2sBeR.png)](https://www.coursera.org/account/accomplishments/certificate/N4FBTPPPV2W9)
